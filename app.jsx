@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import MovieList from "./MovieList";
 import Filter from "./Filter";
-import moviesData from "./moviesData";
+import moviesData from "./src/moviesData";
 import { Container, Form, Button } from "react-bootstrap";
 
 function App() {
